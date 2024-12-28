@@ -48,5 +48,25 @@
         "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/events.csv",
         "p_folder" : "events",
         "p_file" : "events.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Medals/medallists.csv",
+        "p_folder" : "medallists",
+        "p_file" : "medallists.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Medals/athletes.csv",
+        "p_folder" : "athletes",
+        "p_file" : "athletes.csv"
+    },
+    {
+        "p_rel_url": "Olympic-Data-Analysis/refs/heads/main/Data/Medals/medals.csv",
+        "p_folder": "medals",
+        "p_file": "medals.csv"
+    },
+    {
+        "p_rel_url": "Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Medals/medals_total.csv",
+        "p_folder": "medals_total",
+        "p_file": "medals_total.csv"
     }
 ]
