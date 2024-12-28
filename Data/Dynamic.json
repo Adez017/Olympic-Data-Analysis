@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Artistic%20Gymnastics.csv",
+        "p_folder" : "Artistic Gymnastics",
+        "p_file" : "Artistic Gymnastics.csv"
+    },
+    {
+        "p_rel_url": "Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Athletics.csv",
+        "p_folder": "Athletics",
+        "p_file": "Athletics.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Badminton.csv",
+        "p_folder" : "Badminton",
+        "p_file" : "Badminton.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Boxing.csv",
+        "p_folder" : "Boxing",
+        "p_file" : "Boxing.csv"
+    },
+    {
+        "p_rel_url" : "Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Football.csv",
+        "p_folder" : "Football",
+        "p_file" : "Football.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Hockey.csv",
+        "p_folder" : "Hockey",
+        "p_file" : "Hockey.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Shooting.csv",
+        "p_folder" : "Shooting",
+        "p_file" : "Shooting.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Weightlifting.csv",
+        "p_folder" : "Weightlifting",
+        "p_file" : "Weightlifting.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/Wrestling.csv",
+        "p_folder" : "Wrestling",
+        "p_file" : "Wrestling.csv"
+    },
+    {
+        "p_rel_url" :"Adez017/Olympic-Data-Analysis/refs/heads/main/Data/Event%20Results/events.csv",
+        "p_folder" : "events",
+        "p_file" : "events.csv"
+    }
+]
